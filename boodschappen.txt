@@ -3,4 +3,3 @@ Pizza:
   -Pizzadeeg
   -Kaas
   -Salami
-  -Ananas
